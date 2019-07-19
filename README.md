@@ -47,6 +47,9 @@ The Galaxy instance provides a single admin user with user name `admin@galaxy.or
 
 That's it! You can now upload your data and create workflows (or import existing ones from the `workflow/` directory).
 
+## Tutorial
+For first steps with Galaxy and our workflows you find a tutorial with explanations and advice.
+
 
 ## Additional useful commands
 
