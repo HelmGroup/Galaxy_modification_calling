@@ -48,8 +48,14 @@ The Galaxy instance provides a single admin user with user name `admin@galaxy.or
 That's it! You can now upload your data and create workflows (or import existing ones from the `workflow/` directory).
 
 ## Tutorial
-For first steps with Galaxy and our workflows you find a tutorial with explanations and advice.
-
+For first steps with Galaxy and our workflows you find a tutorial with explanations and advice. Test data is also provided in the Repository. Most files are stored in compressed 7-zip (7z) format. To decompress them, the program 7-zip is required. You can install it with the following command:
+```
+sudo apt-get install p7zip
+```
+Decompress the files:
+```
+7zr e xyz.7z
+```
 
 ## Additional useful commands
 
